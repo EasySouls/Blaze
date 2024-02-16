@@ -7,7 +7,7 @@ description = "A simple CLI tool to search content in files"
 readme = "README.md"
 homepage = "https://github.com/EasySouls/blaze"
 repository = "https://github.com/EasySouls/blaze"
-keywords = ["cli", "search", "grep", "find", "content", "file"]
+keywords = ["cli", "search", "find", "content", "file"]
 categories = ["command-line-utilities"]
 edition = "2021"
 
